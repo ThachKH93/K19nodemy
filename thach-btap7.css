@@ -19,6 +19,7 @@
 .main-right{
     width: calc(100% - 300px);
     margin-left: 300px;
+    background: #f1f1f1;
 }
 /**************************************/
 .my-port{
@@ -232,7 +233,8 @@
   }
   /**********************************/
 .about-me .row-2{
-    /* padding: 0 -16px; */
+    padding: 0 8px;
+    margin: 0 -16px;
     width: 100%;
     display: flex;
     justify-content: space-between;
